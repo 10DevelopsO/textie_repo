@@ -1,2 +1,2 @@
-# textie_repo
-Extensions repository for the new versions of Textie Editor
+# Textie Editor repository
+Downloads repository for the new versions of Textie Editor
